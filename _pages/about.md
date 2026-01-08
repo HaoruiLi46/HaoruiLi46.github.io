@@ -6,7 +6,7 @@ subtitle: 李昊睿
 
 profile:
   align: right
-  image: profile.jpg
+  image: selfie/photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
