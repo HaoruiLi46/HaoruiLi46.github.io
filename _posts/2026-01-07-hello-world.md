@@ -8,7 +8,7 @@ categories: sample-posts
 published: true
 ---
 
-Welcome to my new academic homepage! 
+Welcome to my new academic homepage!
 
 I will use this space to share my research updates, thoughts on **AI for Science**, and interesting findings in **Chemistry** and **Computer Science**.
 

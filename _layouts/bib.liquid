@@ -26,7 +26,12 @@
         {% endif %}
       {% endif %}
       {% if entry.tag %}
-        <abbr class="badge rounded w-100" style="margin-top: 5px; background-color: white; color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color);">{{ entry.tag }}</abbr>
+        <abbr
+          class="badge rounded w-100"
+          style="margin-top: 5px; background-color: white; color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color);"
+        >
+          {{- entry.tag -}}
+        </abbr>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

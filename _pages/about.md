@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Haorui Li 李昊睿
+title: Haorui Li
 permalink: /
-subtitle: GenAI
+subtitle: 李昊睿
 
 profile:
   align: right
