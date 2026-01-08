@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am fortunate to be a visiting student at **California Institute of Technology (Caltech)**.
+I am fortunate to be a research intern at **California Institute of Technology (Caltech)**.
