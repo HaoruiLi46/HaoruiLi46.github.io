@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hello World
+title: Welcome to my website
 date: 2026-01-01 12:00:00-0400
 description: A welcome message to my new personal website.
 tags: formatting
-categories: sample-posts
+categories: posts
 published: true
 ---
 
-Welcome to my new academic homepage!
+Welcome to my academic homepage!
 
-I will use this space to share my research updates, thoughts on **AI for Science**, and interesting findings in **Chemistry** and **Computer Science**.
+I will use this space to share my research thoughts on **GenAI**.
 
-Stay tuned!
+**Stay tuned!**
