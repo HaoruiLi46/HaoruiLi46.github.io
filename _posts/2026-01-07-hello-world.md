@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Hello World
-date: 2026-01-07 12:00:00-0400
+date: 2026-01-01 12:00:00-0400
 description: A welcome message to my new personal website.
 tags: formatting
 categories: sample-posts
+published: true
 ---
 
 Welcome to my new academic homepage! 

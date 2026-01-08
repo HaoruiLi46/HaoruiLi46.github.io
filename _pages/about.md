@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Haorui Li
+title: Haorui Li 李昊睿
 permalink: /
 subtitle: GenAI
 

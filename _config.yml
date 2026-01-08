@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Haorui Li # the website title (if blank, full name will be used instead)
 first_name: Haorui
 middle_name:
 last_name: Li
 email: haoruili46@gmail.com
 description: # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. student at CUHK specializing in AI for Science and Chemistry.
+  Haorui Li (李昊睿) is a Ph.D. student at CUHK. He received his B.E. in Computer Science and B.S. in Chemistry from Huazhong University of Science and Technology (HUST). Previously, he was a visiting research student at Caltech. His research focuses on Generative Models, AI for Science, and Representation Learning.
 footer_text: >
   © 2026 Haorui Li. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Haorui Li, 李昊睿, CUHK, Caltech, HUST, Generative Models, Representation Learning, GenAI, AI for Science, AI4Science, Chemistry, Machine Learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👾 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -166,13 +166,13 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
+#   - name: Google Blog
+#     posts:
+#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
